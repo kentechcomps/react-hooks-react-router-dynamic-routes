@@ -1,6 +1,6 @@
 import React from "react";
 import { Route } from "react-router-dom";
-import MoviesList from "./MoviesList";
+import MoviesList from "./Movielist";
 
 function MoviesPage({ movies }) {
   return (
